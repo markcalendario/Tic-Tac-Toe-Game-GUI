@@ -5,7 +5,8 @@
 
  1. Player vs. Player Mode
  2. Player vs. Artificial Intelligence Mode
- 3. Changing music in every round of the game
+    2.1. Try to defeat the AI 😁
+ 4. Changing music in every round of the game
 
 ## Installation for Further Development
 
@@ -18,8 +19,9 @@
 Make sure that you have a Visual Studio in your computer. Open the **.sln** file.
 
 ## Game Installation
-Click the **Tic Tac Toe by Mark Kenneth .exe**
+Click the **Tic Tac Toe by Mark Kenneth.exe**
 
 **ENJOY!**
 
+Mode Selection View
 ![TicTacToe by Mark Kenneth](https://imgur.com/TIr9rq0.png)
