@@ -14,11 +14,13 @@
 1. [Visual Studio](https://visualstudio.microsoft.com/)
 2. Basic Knowledge in [C++](https://www.w3schools.com/cpp/)
 
-**Installation**
+**Installation for Dev**
 Make sure that you have a Visual Studio in your computer. Open the **.sln** file.
 
 ## Game Installation
-Click the **Tic Tac Toe by Mark Kenneth.exe**
+Click **[here to download the .exe](https://drive.google.com/file/d/1PkL_BBBWaktA-rP2Ylo8922_YsnvKLy1/view?usp=sharing)**
+
+**NOTE** Ignore the antivirus warning about this execution file. Anti-Viruses assumes that my program is a virus.
 
 **ENJOY!**
 
