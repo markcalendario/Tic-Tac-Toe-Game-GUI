@@ -4,8 +4,7 @@
 ## Game Features
 
  1. Player vs. Player Mode
- 2. Player vs. Artificial Intelligence Mode
-    2.1. Try to defeat the AI 😁
+ 2. Player vs. Artificial Intelligence Mode (Try to defeat the AI 😁)
  4. Changing music in every round of the game
 
 ## Installation for Further Development
