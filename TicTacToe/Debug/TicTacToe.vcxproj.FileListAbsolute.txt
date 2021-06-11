@@ -1,0 +1,8 @@
+C:\Users\markc\Desktop\Programming\Practice\Tic Tac Toe\TicTacToe\TicTacToe\Debug\TicTacToe.vcxprojAssemblyReference.cache
+C:\Users\markc\Desktop\Programming\Practice\Tic Tac Toe\TicTacToe\TicTacToe\Debug\TicTacToe.Welcome.resources
+C:\Users\markc\Desktop\Programming\Practice\Tic Tac Toe\TicTacToe\TicTacToe\Debug\TicTacToe.vcxproj.GenerateResource.cache
+C:\Users\markc\Desktop\Programming\Practice\Tic Tac Toe\TicTacToe\TicTacToe\Debug\TicTacToe.about.resources
+C:\Users\markc\Desktop\Programming\Practice\Tic Tac Toe\TicTacToe\TicTacToe\Debug\TicTacToe.PVAGame.resources
+C:\Users\markc\Desktop\Programming\Practice\Tic Tac Toe\TicTacToe\TicTacToe\Debug\TicTacToe.ResultAnnounce.resources
+C:\Users\markc\Desktop\Programming\Practice\Tic Tac Toe\TicTacToe\TicTacToe\Debug\TicTacToe.PVPGame.resources
+C:\Users\markc\Desktop\Programming\Practice\Tic Tac Toe\TicTacToe\TicTacToe\Debug\TicTacToe.ResultAnnouncePVP.resources

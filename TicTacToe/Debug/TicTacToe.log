@@ -1,0 +1,12 @@
+﻿  PVPGame.cpp
+C:\Users\markc\Desktop\Programming\Practice\Tic Tac Toe\TicTacToe\TicTacToe\gameStats.h(26,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\markc\Desktop\Programming\Practice\Tic Tac Toe\TicTacToe\TicTacToe\gameStats.h(199,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ResultAnnouncePVP.cpp
+C:\Users\markc\Desktop\Programming\Practice\Tic Tac Toe\TicTacToe\TicTacToe\gameStats.h(26,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\markc\Desktop\Programming\Practice\Tic Tac Toe\TicTacToe\TicTacToe\gameStats.h(199,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Welcome.cpp
+C:\Users\markc\Desktop\Programming\Practice\Tic Tac Toe\TicTacToe\TicTacToe\gameStats.h(26,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\markc\Desktop\Programming\Practice\Tic Tac Toe\TicTacToe\TicTacToe\gameStats.h(199,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  About.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  TicTacToe.vcxproj -> C:\Users\markc\Desktop\Programming\Practice\Tic Tac Toe\TicTacToe\Debug\TicTacToe.exe
